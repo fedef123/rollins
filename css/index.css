@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    background-color: #4bb3ad;
+ }
+
+#Titulo{
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#items{
+    align-items: flex-end;
+}
